@@ -1,0 +1,6 @@
+{
+  "name": "Zona Stream Plus - Suscripciones Digitales en Venezuela",
+  "description": "Catálogo digital y venta directa de cuentas de streaming, entretenimiento, IPTV, IA y herramientas en Venezuela con Pago Móvil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
